@@ -3,7 +3,7 @@ variables:
   distro: "fedora"
 
 repos:
-  - fedora-devel
+  - fedora
   - fedora-updates
 
 metadata:
